@@ -400,10 +400,12 @@ span.icon-prev {
     position: relative;
     left: -56px;
 }
-
-.inverted-bg-inverted img {
-    position: relative;
-    right: -56px;
+@media (min-width:768px) {
+    
+    .inverted-bg-inverted img {
+        position: relative;
+        right: -56px;
+    }
 }
 
 

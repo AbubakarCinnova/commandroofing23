@@ -417,9 +417,9 @@ footer {
     background-size: cover;
 }
 
-footer img {
+/* footer img {
     float: left;
-}
+} */
 
 footer li {
     line-height: 2em;

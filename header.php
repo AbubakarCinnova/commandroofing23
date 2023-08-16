@@ -24,8 +24,8 @@
     <![endif]-->
 
     <!-- Fontawesome css -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.4/css/all.css"
-        integrity="sha384-DmABxgPhJN5jlTwituIyzIUk6oqyzf3+XuP7q3VfcWA2unxgim7OSSZKKf0KSsnh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
     <link href="<?php echo $base_url ?>/css/style.css" rel="stylesheet">
     <link href="<?php echo $base_url ?>/css/cards.css" rel="stylesheet">

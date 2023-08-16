@@ -568,7 +568,9 @@ footer h4 {
         width: 20%;
     }
 }
-
+.main-logo img{
+    background-color: white;
+}
 @media (max-width: 991px) and (min-width:768px) {
     .main-logo img {
         max-width: 156px;

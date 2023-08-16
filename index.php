@@ -8,9 +8,9 @@
             <img class="first-slide" src="<?php echo $base_url; ?>/images/CC-banner-1.jpg" alt="First slide">
         </div>
         <div class="item">
-            <img class="second-slide" src="<?php echo $base_url; ?>/images/Wagmanbridge.jpg" alt="second slide">
+            <img class="second-slide" src="<?php echo $base_url; ?>/images/CC-banner-1.jpg" alt="second slide">
         </div>
-        <div class="item">
+        <!--     <div class="item">
             <img class="third-slide" src="<?php echo $base_url; ?>/images/CC-banner-2.jpg" alt="third slide">
         </div>
 
@@ -20,7 +20,7 @@
 
         <div class="item">
             <img class="fifth-slide" src="<?php echo $base_url; ?>/images/CC-banner-4.jpg" alt="fifth slide">
-        </div>
+        </div> -->
 
         <!-- Left and right controls -->
         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

@@ -52,11 +52,12 @@
         <div class="topbar clearfix">
             <div class="container">
                 <ul class="topbar-left">
-                    <li class="phoneNo"><i class="icon-xs icon-phone"></i> <a href="tel:+18007778448;">1-800-777-8448
+                    <li class="phoneNo"><i class="icon-xs icon-phone"></i> <a href="tel:+19372981155;">937-298-1155
                         </a></li>
                 </ul>
                 <ul class="topbar-right">
-                    <li class=""><a href="#"><i class="icon-xs icon-fb"></i> </a></li>
+                    <li class=""><a href="https://www.www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
+                        </a></li>
                     <li class=""><a href="#"><i class="icon-xs icon-youtube"></i> </a></li>
                 </ul>
 

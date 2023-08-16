@@ -13,7 +13,7 @@
 
     <meta name="description" content=" " />
     <meta name="author" content="">
-    <title>Elastizell System</title>
+    <title>Home | Command Roofing </title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo $base_url ?>/css/bootstrap.min.css" rel="stylesheet">

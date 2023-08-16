@@ -563,6 +563,12 @@ footer h4 {
         height:315px;
   }
 
+  @media (min-width:768px) {
+    .video-container iframe {
+       padding-left: 20px;
+  }
+  }
+
   
 /* RESPONSIVE CSS
 -------------------------------------------------- */

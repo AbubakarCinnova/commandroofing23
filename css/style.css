@@ -121,6 +121,7 @@ ul.topbar-right>li {
     color: #fff;
     padding-left: 40px;
     padding-right: 40px;
+    line-height: 24px;
 }
 
 .nav.navbar-nav a:focus {
@@ -157,6 +158,11 @@ ul.topbar-right>li {
     padding-top: 9px;
     padding-bottom: 9px;
     font-size: 30px;
+}
+.fa-home{
+    background-image: url('../images/home_1.png');
+    width: 35px;
+    height: 35px;
 }
 
 

@@ -93,7 +93,7 @@
 <div class="full-width blue-bg clearfix">
     <div class="container pt-lg pb-lg">
         <div class="row ">
-            <div class="col-sm-5 pb-lg pt-lg">
+            <div class="col-sm-6 pb-lg pt-lg">
                 <h3>Elastizell Systems</h3>
                 <p>
                     For over 40 years, Elastizell Systems Inc, based in Ohio and working across the USA, has been a
@@ -103,10 +103,9 @@
                     system projects. Our decades of experience have helped us to establish a reputation for providing
                     exceptional service in these fields.</p>
             </div>
-            <div class="col-sm-1"></div>
             <div class="col-sm-6">
                 <div class="col-sm-10 pull-right">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/FyleHDqncQg?rel=0"
+                    <iframe style="width:100%" height="auto" src="https://www.youtube.com/embed/FyleHDqncQg?rel=0"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>

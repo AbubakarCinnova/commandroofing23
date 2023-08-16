@@ -9,7 +9,10 @@
             </div>
             <div class="col-md-7">
                 <div class=" footer-item">
-                    <h4>Service Area</h4>
+                    <div class="col-12">
+                        <h4>Service Area</h4>
+                    </div>
+
                     <ul class="list-unstyled">
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-left">
                             <li><a href="<?php echo $base_url; ?>/service-area/ann-arbor-michigan.php">Ann Arbor,

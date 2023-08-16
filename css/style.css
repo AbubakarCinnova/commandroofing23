@@ -77,7 +77,7 @@ ul.topbar-right {
 
 .icon-youtube {
     background: url('../images/linkedin_174857.png') 0 0 no-repeat transparent;
-    width: 29px;
+    width: 35px;
     height: 35px;
 }
 
@@ -448,7 +448,7 @@ footer h4 {
     line-height: 40px;
 }
 footer h4 {
-    padding-bottom: 50px;
+    padding-bottom: 10px;
 }
 
 .contact-div {

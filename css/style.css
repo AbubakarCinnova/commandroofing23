@@ -142,6 +142,7 @@ ul.topbar-right>li {
 
 .navbar-toggle {
     background: #060606;
+    margin-top: 20px;
 }
 
 .navbar-toggle .icon-bar {

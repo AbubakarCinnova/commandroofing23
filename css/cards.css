@@ -1,0 +1,45 @@
+.card-slider{
+padding-top:40px;
+}
+
+.carousel-item-text{
+padding:20px 10px !important;
+text-align:center;
+color:black !important;
+font-weight: 500 !important;
+font-size:18px;
+}
+
+#card-carousel .item{
+    border: 1px dotted #8d8d8d;
+    background-color:white;
+}
+.corousel-item-btn{
+       margin: 0px 0px 10px 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #eee;
+    font-size: 15px;
+	border: none;
+    width: 225px;
+}
+
+.corousel-item-btn:hover {
+color: #ffffff;
+ background-color: #7997e7;
+}
+
+.corousel-btn-wrap{
+text-align:center;
+margin-bottom:20px;
+}
+
+
+
+.data-sheet-page{
+background-image: url('../images/2.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}

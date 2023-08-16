@@ -1,4 +1,4 @@
-<?php $base_url  = "http://stage.reticlewebmarketing.com/commandroofing23"; ?>
+<?php $base_url  = "http://stage.reticlewebmarketing.com/Elastizell-Systems"; ?>
 <!DOCTYPE html>
 <html lang="en">
 

@@ -442,14 +442,20 @@ footer h4 {
 }
 
 .pull-left li {
-    line-height: 40px;
+    line-height: 35px;
 }
 .pull-right li {
-    line-height: 40px;
+    line-height: 35px;
 }
 footer h4 {
     padding-bottom: 10px;
 }
+@media (min-width:768px) {
+    footer .service-area{
+    padding-left:15px;
+}
+}
+
 
 .contact-div {
     padding-left: 5%;
@@ -459,6 +465,10 @@ footer h4 {
 .contact-div p a {
     vertical-align: super;
 }
+.contact-div p {
+    line-height: 35px;
+}
+
 
 .dropdown,
 .dropup {

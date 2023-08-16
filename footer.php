@@ -10,7 +10,7 @@
             <div class="col-md-7">
                 <div class=" footer-item">
                     <div class="col-12">
-                        <h4>Service Area</h4>
+                        <h4 class="service-area">Service Area</h4>
                     </div>
 
                     <ul class="list-unstyled">

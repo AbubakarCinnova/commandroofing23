@@ -389,23 +389,24 @@ span.icon-prev {
     color: #5b5b5b;
 }
 
-.inverted-bg-inverted,
+
+
+
+@media (min-width:768px) {
+    .inverted-bg-inverted,
 .inverted-bg {
     padding: 6% 0;
     background: #84b4fc;
     position: relative;
 }
-
-.inverted-bg img {
-    position: relative;
-    left: -56px;
-}
-@media (min-width:768px) {
-    
     .inverted-bg-inverted img {
         position: relative;
         right: -56px;
     }
+    .inverted-bg img {
+    position: relative;
+    left: -56px;
+}
 }
 
 

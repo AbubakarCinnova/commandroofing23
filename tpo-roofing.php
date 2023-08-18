@@ -4,7 +4,7 @@
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/tpo roofing.jpg" style="width:65%" alt="tpo">
     </div>
-    <br><br>
+    <br>
     <h1>TPO Commercial Roofing System</h1>
     <p>TPO (Thermoplastic Polyolefin) commercial roofing is a single-ply roofing material that has gained popularity for
         its numerous advantages. Here are the key advantages of using TPO roofing:</p>

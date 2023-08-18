@@ -5,11 +5,11 @@
     <!-- Indicators -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img class="first-slide" src="<?php echo $base_url; ?>/images/CC-banner-1.jpg" alt="First slide">
+            <img class="first-slide" src="<?php echo $base_url; ?>/images/command40years-1 (1).png" alt="First slide">
         </div>
-        <div class="item">
+        <!--  <div class="item">
             <img class="second-slide" src="<?php echo $base_url; ?>/images/CC-banner-1.jpg" alt="second slide">
-        </div>
+        </div> -->
         <!--     <div class="item">
             <img class="third-slide" src="<?php echo $base_url; ?>/images/CC-banner-2.jpg" alt="third slide">
         </div>

@@ -752,3 +752,7 @@ footer h4 {
         width: 100% !important;
     }
 }
+
+.partner-logo .owl-item img {
+    max-width: 200px;
+}

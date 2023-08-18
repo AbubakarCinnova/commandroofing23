@@ -95,7 +95,7 @@ jQuery(document).ready(function($) {
     $('.partner-logo').owlCarousel({
         loop: true,
         margin: 30,
-        autoPlay: 2000,
+        autoPlay: 1000,
         nav: false,
         items: 3,
         pagination: false,

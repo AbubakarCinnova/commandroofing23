@@ -137,8 +137,7 @@
 
     </div>
 </div>
-
-
+<div class="clearfix"></div>
 <div class="full-width grey-bg clearfix  slider-space">
     <h2 class="text-center">We Only Partner With The Best !</h2>
     <div class="container mt-sm mb-sm">

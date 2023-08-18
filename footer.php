@@ -96,7 +96,7 @@ jQuery(document).ready(function($) {
         loop: true,
         margin: 30,
         autoPlay: 2000,
-        nav: true,
+        nav: false,
         items: 3,
         pagination: false,
         responsive: {

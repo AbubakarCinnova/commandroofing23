@@ -98,6 +98,7 @@
                                         <h3>Roofing Solutions </h3>
                                         <a href="<?php echo $base_url; ?>/sbs-roofing.php">SBS Roofing System</a>
                                         <a href="<?php echo $base_url; ?>/tpo-roofing.php">TPO Roofing System</a>
+                                        <a href="<?php echo $base_url; ?>/epdm-roofing.php">EPDM Roofing</a>
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
                                             (LWIC) Roof Decks</a>
                                         <!-- <a href="#">Reducing Lateral Forces</a> -->

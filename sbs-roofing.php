@@ -1,4 +1,4 @@
-<title>SBS Commercial Roofing</title>
+<title>SBS Roofing System</title>
 <?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">

@@ -741,3 +741,14 @@ footer h4 {
     }
 }
 
+
+.img-wrap{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width:768px) {
+    .img-wrap img{
+        width: 100% !important;
+    }
+}

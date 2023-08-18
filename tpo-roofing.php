@@ -2,7 +2,7 @@
 <?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
-    <div style="margin:0 auto;"><img src="<?php echo $base_url; ?>/images/tpo roofing.jpg" style="width:80%" alt="">
+    <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/tpo roofing.jpg" style="width:65%" alt="tpo">
     </div>
     <br><br>
     <h1>TPO Commercial Roofing System</h1>

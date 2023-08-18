@@ -94,7 +94,7 @@
     <div class="container pt-lg pb-lg">
         <div class="row ">
             <div class="col-md-6 pb-lg pt-lg">
-                <h3>Elastizell Systems</h3>
+                <h2>Elastizell Systems</h2>
                 <p>
                     For over 40 years, Elastizell Systems Inc, based in Ohio and working across the USA, has been a
                     specialist in the field of Lightweight Cellular Concrete, with a focus on both design and
@@ -126,7 +126,7 @@
         </div>
         <div class="col-sm-1"></div>
         <div class="col-sm-5 pb-lg pt-lg">
-            <h3>What is Elastizell?</h3>
+            <h2>What is Elastizell?</h2>
             <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted
                 using specialized equipment to precisely blend Portland cement, water, and Elastizell pre-formed foam.
             </p>

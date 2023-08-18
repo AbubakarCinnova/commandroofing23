@@ -70,30 +70,52 @@
 <script src="<?php echo $base_url; ?>/js/ie10-viewport-bug-workaround.js"></script>
 
 
-<!--  <script src="<?php echo $base_url; ?>/js/owlcarousel/owl.carousel.min.js"></script>
-    <script>                                
-    jQuery(document).ready(function ($) {  
-        var owl = $("#owl-demo");   
+<script src="<?php echo $base_url; ?>/js/owlcarousel/owl.carousel.min.js"></script>
+<script>
+jQuery(document).ready(function($) {
+    /* var owl = $("#owl-demo");
 
-        owl.owlCarousel({   
-            items: 3, //10 items above 1000px browser width     
-            itemsDesktop: [1000, 3], //5 items between 1000px and 901px  
-            itemsDesktopSmall: [900,2], // betweem 900px and 601px    
-            itemsTablet: [600,1], //2 items between 600 and 0      
-            itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option   
-            autoPlay: 3000, //Set AutoPlay to 3 seconds 
-        });                                
-        var test = $("#testmonial");   
-        test.owlCarousel({   
-            items: 1, //10 items above 1000px browser width   
-            itemsDesktop: [1000, 1], //5 items between 1000px and 901px  
-            itemsDesktopSmall: [900, 1], // betweem 900px and 601px  
-            itemsTablet: [600, 1], //2 items between 600 and 0
-            itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option    
-            autoPlay: 3000, //Set AutoPlay to 3 seconds 
-        });          
-    });                  
-</script> -->
+    owl.owlCarousel({
+        items: 3, //10 items above 1000px browser width     
+        itemsDesktop: [1000, 3], //5 items between 1000px and 901px  
+        itemsDesktopSmall: [900, 2], // betweem 900px and 601px    
+        itemsTablet: [600, 1], //2 items between 600 and 0      
+        itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option   
+        autoPlay: 3000, //Set AutoPlay to 3 seconds 
+    });
+    var test = $("#testmonial");
+    test.owlCarousel({
+        items: 1, //10 items above 1000px browser width   
+        itemsDesktop: [1000, 1], //5 items between 1000px and 901px  
+        itemsDesktopSmall: [900, 1], // betweem 900px and 601px  
+        itemsTablet: [600, 1], //2 items between 600 and 0
+        itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option    
+        autoPlay: 3000, //Set AutoPlay to 3 seconds 
+    }); */
+    $('.partner-logo').owlCarousel({
+        loop: true,
+        margin: 30,
+        autoPlay: 2000,
+        nav: true,
+        items: 3,
+        pagination: false,
+        responsive: {
+            426: {
+                items: 1,
+                loop: true
+            },
+            600: {
+                items: 3,
+                loop: true
+            },
+            1000: {
+                items: 3,
+                loop: true
+            }
+        }
+    })
+});
+</script>
 
 
 

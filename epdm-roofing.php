@@ -1,4 +1,6 @@
-<title>EPDM Roofing</title>
+<title>EPDM Commercial Roofing System | Command Roofing</title>
+<meta name="description"
+    content=" EPDM (Ethylene Propylene Diene Monomer) roofing is a popular commercial roofing material that is a type of synthetic rubber known for its numerous advantages." />
 <?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">

@@ -1,4 +1,6 @@
-<title>PVC Commercial Roofing</title>
+<title>Industrial Commercial PVC Commercial Roofing System | Command Roofing</title>
+<meta name="description"
+    content=" PVC (Polyvinyl Chloride) commercial roofing is a popular roofing material with several advantages for commercial and industrial applications." />
 <?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">

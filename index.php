@@ -93,7 +93,7 @@
 <div class="full-width blue-bg clearfix">
     <div class="container pt-lg pb-lg">
         <div class="row ">
-            <div class="col-md-6 pb-lg pt-lg">
+            <div class="col-md-12 pb-lg pt-lg">
                 <h2>Elastizell Systems</h2>
                 <p>
                     For over four decades, Command Roofing has been the trusted name for exceptional industrial
@@ -125,14 +125,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <!--  <div class="col-md-6">
                 <div class="video-container">
                     <iframe src="https://www.youtube.com/embed/FyleHDqncQg?rel=0" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

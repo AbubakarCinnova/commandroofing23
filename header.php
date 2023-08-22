@@ -96,6 +96,8 @@
                                 <div class="row">
                                     <div class="column">
                                         <h3>Roofing Solutions </h3>
+                                        <a href="<?php echo $base_url; ?>/industrial-commercial-roof-coatings.php">Industrial
+                                            Commercial Roof Coatings</a>
                                         <a href="<?php echo $base_url; ?>/sbs-roofing.php">SBS Roofing System</a>
                                         <a href="<?php echo $base_url; ?>/tpo-roofing.php">TPO Roofing System</a>
                                         <a href="<?php echo $base_url; ?>/epdm-roofing.php">EPDM Roofing</a>

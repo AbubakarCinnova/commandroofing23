@@ -314,7 +314,7 @@ span.icon-prev {
   background: #f2521d;
   font-weight: 700;
   color: #fff;
-  padding: 15px 20px;
+  padding: 15px 20px !important;
 }
 
 .btn-default:hover {

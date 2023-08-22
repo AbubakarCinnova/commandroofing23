@@ -528,7 +528,7 @@ footer h4 {
 .dropdown-content .column a {
   margin-top: 7px;
   margin-bottom: 11px;
-  padding: 0 5px;
+  padding: 0px;
 }
 
 .column {
@@ -708,7 +708,7 @@ footer h4 {
   }
   .dropdown-content .column a {
     margin: 3px 0;
-    padding: 0 5px;
+    padding: 0px;
   }
 }
 

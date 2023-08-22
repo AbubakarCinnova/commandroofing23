@@ -91,9 +91,9 @@
 <!-- Blue area
     ================================================== -->
 <div class="full-width blue-bg clearfix">
-    <div class="container pt-lg pb-lg">
+    <div class="container pt-sm pb-sm">
         <div class="row ">
-            <div class="col-md-12 pb-lg pt-lg">
+            <div class="col-md-12 ">
                 <h2>Elastizell Systems</h2>
                 <p>
                     For over four decades, Command Roofing has been the trusted name for exceptional industrial

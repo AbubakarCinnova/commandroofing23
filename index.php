@@ -138,7 +138,7 @@
 </div>
 <div class="clearfix"></div>
 <div class="container mt-lg mb-lg">
-    <div class="row ">
+    <div class="row pb-lg pt-lg">
         <div class="col-sm-6">
             <div class="col-sm-10 ">
                 <div class="inverted-bg-inverted ">

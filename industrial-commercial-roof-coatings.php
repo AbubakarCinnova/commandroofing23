@@ -19,7 +19,7 @@
 
 
 
-    <p><strong>Here are some common types of industrial commercial roof coatings and their benefits:</strong></p>
+    <h2>Here are some common types of industrial commercial roof coatings and their benefits:</h2>
 
 
     <ol>
@@ -86,37 +86,33 @@
     </ol>
 
 
-    Benefits of Commercial Roof Coatings:
+    <h2>Benefits of Commercial Roof Coatings</h2>
+    <ul>
+        <li><strong>Extended Roof Life:</strong> Coatings can extend the lifespan of the roofing material by protecting
+            it from UV rays, moisture, and other environmental factors.</li>
+        <li><strong>Energy Efficiency:</strong> Reflective coatings can help reduce the roof's temperature, leading to
+            lower energy consumption for cooling purposes.</li>
+        <li><strong>Waterproofing:</strong> Many coatings offer excellent waterproofing properties, preventing leaks and
+            water damage.</li>
+        <li><strong>Seam and Crack Sealing:</strong> Coatings can seal seams, joints, and small cracks, preventing water
+            infiltration.</li>
+        <li><strong>Reduced Maintenance:</strong> Roof coatings can reduce the need for frequent repairs and
+            maintenance, saving time and money.</li>
+        <li><strong>Environmentally Friendly:</strong> Roof coatings can help reduce the need for roof tear-offs, which
+            can generate waste, and they can contribute to energy savings.</li>
+        <li><strong>Improved Aesthetics:</strong> Coatings can enhance the appearance of the roof and improve the
+            building's overall aesthetic.</li>
+        <li><strong>Cost Savings:</strong> Installing a coating is generally more cost-effective than a full roof
+            replacement, especially for roofs in good condition.</li>
+    </ul>
 
-    Extended Roof Life: Coatings can extend the lifespan of the roofing material by protecting it from UV rays,
-    moisture, and other environmental factors.
-
-    Energy Efficiency: Reflective coatings can help reduce the roof's temperature, leading to lower energy consumption
-    for cooling purposes.
-
-    Waterproofing: Many coatings offer excellent waterproofing properties, preventing leaks and water damage.
-
-    Seam and Crack Sealing: Coatings can seal seams, joints, and small cracks, preventing water infiltration.
-
-    Reduced Maintenance: Roof coatings can reduce the need for frequent repairs and maintenance, saving time and money.
-
-    Environmentally Friendly: Roof coatings can help reduce the need for roof tear-offs, which can generate waste, and
-    they can contribute to energy savings.
-
-    Improved Aesthetics: Coatings can enhance the appearance of the roof and improve the building's overall aesthetic.
-
-    Cost Savings: Installing a coating is generally more cost-effective than a full roof replacement, especially for
-    roofs in good condition.
-
-
-
-
-
-    At Command Roofing, we take pride in serving as your reliable partner for industrial commercial roofing needs, with
-    a specialization in a comprehensive range of commercial roofing coatings. Our primary aim is to provide resilient,
-    enduring solutions for commercial and industrial roofs that consistently surpass expectations. Leveraging our
-    extensive expertise in a diverse selection of commercial roofing coatings, don't hesitate to get in touch with
-    Command Roofing today.
+    <p><strong> At Command Roofing, we take pride in serving as your reliable partner for industrial commercial roofing
+            needs,
+            with a specialization in a comprehensive range of commercial roofing coatings. Our primary aim is to provide
+            resilient, enduring solutions for commercial and industrial roofs that consistently surpass expectations.
+            Leveraging our extensive expertise in a diverse selection of commercial roofing coatings, don't hesitate to
+            get
+            in touch with Command Roofing today.</strong></p>
 
 
 

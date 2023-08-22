@@ -96,12 +96,34 @@
             <div class="col-md-6 pb-lg pt-lg">
                 <h2>Elastizell Systems</h2>
                 <p>
-                    For over 40 years, Elastizell Systems Inc, based in Ohio and working across the USA, has been a
-                    specialist in the field of Lightweight Cellular Concrete, with a focus on both design and
-                    installation. Our team of skilled engineers and experienced crews have a wealth of knowledge and
-                    expertise in delivering cost-effective solutions for geotechnical and permanent roof insulation
-                    system projects. Our decades of experience have helped us to establish a reputation for providing
-                    exceptional service in these fields.</p>
+                    For over four decades, Command Roofing has been the trusted name for exceptional industrial
+                    commercial roofing services in the Dayton, Columbus, and Cincinnati areas. As a family-owned and
+                    operated business, we take immense pride in consistently delivering top-notch quality, unmatched
+                    value, and a seamless customer experience.
+                    <br>
+
+
+                    Our team, comprised of certified, factory-trained roofing technicians, serves as the bedrock of our
+                    expertise. Through ongoing training initiatives, they continually elevate their skills to stay at
+                    the forefront of industry advancements. Whether you require routine maintenance, urgent roofing
+                    repairs, or a new roofing project, we stand fully prepared to meet your needs.
+
+                    <br>
+
+                    With our 24/7 industrial commercial roofing repair service, you're covered around the clock. A
+                    single call to us ensures that your roofing needs are addressed promptly, minimizing downtime and
+                    ensuring the protection of your assets.
+
+                    <br>
+
+                    At Command Roofing, we consider customer satisfaction paramount. Our commitment to surpassing your
+                    expectations drives us to go the extra mile. Rest easy knowing that our services are backed by
+                    industry-leading warranties, offering you complete peace of mind. When you entrust us with your
+                    industrial commercial roofing needs, you're choosing satisfaction as a guarantee.
+
+
+
+                </p>
             </div>
             <div class="col-md-6">
                 <div class="video-container">

@@ -106,6 +106,8 @@
             replacement, especially for roofs in good condition.</li>
     </ul>
 
+    <br>
+
     <p><strong> At Command Roofing, we take pride in serving as your reliable partner for industrial commercial roofing
             needs,
             with a specialization in a comprehensive range of commercial roofing coatings. Our primary aim is to provide

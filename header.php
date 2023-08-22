@@ -104,6 +104,8 @@
                                         <a href="<?php echo $base_url; ?>/pvc-roofing.php">PVC Roofing </a>
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
                                             (LWIC) Roof Decks</a>
+                                        <a href="<?php echo $base_url; ?>/repair-service.php">24/7 Industrial Commercial
+                                            Roofing Repair</a>
                                         <!-- <a href="#">Reducing Lateral Forces</a> -->
                                         <a href="<?php echo $base_url; ?>/geotechnical-insulation.php">Geotechnical
                                             Insulation </a>

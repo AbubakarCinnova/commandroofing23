@@ -94,7 +94,7 @@
     <div class="container pt-sm pb-sm">
         <div class="row ">
             <div class="col-md-12 ">
-                <h2>Elastizell Systems</h2>
+                <h2>Command Roofing </h2>
                 <p>
                     For over four decades, Command Roofing has been the trusted name for exceptional industrial
                     commercial roofing services in the Dayton, Columbus, and Cincinnati areas. As a family-owned and
@@ -148,7 +148,7 @@
         </div>
         <div class="col-sm-1"></div>
         <div class="col-sm-5 pb-lg pt-lg">
-            <h2>What is Elastizell?</h2>
+            <h2>What is Command Roofing ?</h2>
             <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted
                 using specialized equipment to precisely blend Portland cement, water, and Elastizell pre-formed foam.
             </p>

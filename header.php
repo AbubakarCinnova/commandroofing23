@@ -142,7 +142,7 @@
                             </div>
                         </div>
                         <!-- <li><a href="<?php echo $base_url; ?>/#">Applications </a></li> -->
-                        <li><a href="<?php echo $base_url; ?>/data-sheets.php">DataSheets</a>
+                        <li><a href="<?php echo $base_url; ?>/about.php">About</a>
                             <!--<ul class="dropdown-menu">                
                                 <li><a href="<?php echo $base_url; ?>/service-plan.php">Service Plan</a></li>     
                           </ul>      -->

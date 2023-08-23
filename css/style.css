@@ -738,9 +738,20 @@ footer h4 {
   justify-content: center;
 }
 
+.float-img {
+  float: right;
+  padding: 10px 20px;
+}
+.float-img img {
+  width: 200px;
+}
+
 @media (max-width: 768px) {
   .img-wrap img {
     width: 100% !important;
+  }
+  .float-img img {
+    width: 100%;
   }
 }
 

@@ -2,12 +2,13 @@
 <?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
-    <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/Dan Philpot Command Roofing.jpg" style="width:65%"
-            alt="Owners Jessica and Dan Philpot Command Roofing ">
-    </div>
-    <br>
+
 
     <h1>About Us</h1>
+    <div class="float-img"><img src="<?php echo $base_url; ?>/images/Dan Philpot Command Roofing.jpg"
+            style="width:280px" alt="Owners Jessica and Dan Philpot Command Roofing ">
+    </div>
+    <br>
 
     <p>Welcome to Command Roofing, a family-owned and operated business dedicated to delivering exceptional industrial
         commercial roofing services. We have consistently been a front-runner in providing excellence and innovation

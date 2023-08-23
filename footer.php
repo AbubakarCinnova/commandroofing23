@@ -81,7 +81,7 @@ jQuery(document).ready(function($) {
         itemsDesktopSmall: [900, 2], // betweem 900px and 601px    
         itemsTablet: [600, 1], //2 items between 600 and 0      
         itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option   
-        autoPlay: 3000, //Set AutoPlay to 3 seconds 
+        autoplay: 3000, // Set autoplay to 3 seconds
     });
     var test = $("#testmonial");
     test.owlCarousel({
@@ -90,18 +90,19 @@ jQuery(document).ready(function($) {
         itemsDesktopSmall: [900, 1], // betweem 900px and 601px  
         itemsTablet: [600, 1], //2 items between 600 and 0
         itemsMobile: false, // itemsMobile disabled - inherit from itemsTablet option    
-        autoPlay: 3000, //Set AutoPlay to 3 seconds 
+        autoplay: 3000, // Set autoplay to 3 seconds
     }); */
     $('.partner-logo').owlCarousel({
         loop: true,
         margin: 30,
-        autoPlay: 1000,
+        autoplay: true, // Set autoplay to true
+        autoplayTimeout: 1000, // Set autoplay timeout to 1 second
         nav: false,
         items: 4,
         pagination: false,
         responsive: {
             426: {
-                items: 2,
+                items: 1,
                 loop: true
             },
             600: {
@@ -116,6 +117,7 @@ jQuery(document).ready(function($) {
     })
 });
 </script>
+
 
 
 

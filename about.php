@@ -1,5 +1,5 @@
 <title>About Us | Command Roofing</title>
-
+<?php include('header.php'); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/Dan Philpot Command Roofing.jpg" style="width:65%"

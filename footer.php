@@ -96,12 +96,12 @@ jQuery(document).ready(function($) {
         loop: true,
         margin: 30,
         autoPlay: 1000,
-        nav: true,
-        items: 3,
+        nav: false,
+        items: 4,
         pagination: false,
         responsive: {
             426: {
-                items: 1,
+                items: 2,
                 loop: true
             },
             600: {
@@ -109,7 +109,7 @@ jQuery(document).ready(function($) {
                 loop: true
             },
             1000: {
-                items: 3,
+                items: 4,
                 loop: true
             }
         }

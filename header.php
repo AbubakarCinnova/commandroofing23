@@ -102,6 +102,8 @@
                                         <a href="<?php echo $base_url; ?>/tpo-roofing.php">TPO Roofing System</a>
                                         <a href="<?php echo $base_url; ?>/epdm-roofing.php">EPDM Roofing</a>
                                         <a href="<?php echo $base_url; ?>/pvc-roofing.php">PVC Roofing </a>
+                                        <a href="<?php echo $base_url; ?>/sheet-metal-roofing.php">Industrial Commercial
+                                            Sheet Metal Roofing </a>
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
                                             (LWIC) Roof Decks</a>
                                         <!-- <a href="#">Reducing Lateral Forces</a> -->

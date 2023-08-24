@@ -119,28 +119,6 @@
                                         <a href="<?php echo $base_url; ?>/industrial-commercial-roof-maintenance.php">Industrial
                                             Commercial Roof Maintenance Program</a>
                                     </div>
-                                    <div class="column">
-                                        <h3>Grout and Flowable Fills </h3>
-                                        <a href="<?php echo $base_url; ?>/void-fills.php">Void Fills</a>
-                                        <a href="<?php echo $base_url; ?>/annular-space-grouting.php">Annular Fills</a>
-                                        <a href="<?php echo $base_url; ?>/annular-space-grouting.php">Pipeline Fills</a>
-                                        <a href="<?php echo $base_url; ?>/void-fills.php">Abandonment fills</a>
-                                        <a href="<?php echo $base_url; ?>/void-fills.php">Tunnel Fills </a>
-                                    </div>
-                                    <div class="column">
-                                        <h3>Lightweight Backfill </h3>
-                                        <a href="<?php echo $base_url; ?>/bridge-fills.php">Bridge Fills</a>
-                                        <!-- <a href="#">Load Reducing Fills</a> -->
-                                        <a href="<?php echo $base_url; ?>/void-fills.php">Culvert Fills</a>
-                                        <a href="<?php echo $base_url; ?>/slope-stabilization.php">Landslip Repair
-                                            Fills</a>
-                                        <a href="<?php echo $base_url; ?>/roadway-fills.php">Roadway fills</a>
-                                        <a href="<?php echo $base_url; ?>/retaining-walls.php">Retaining Wall Fills</a>
-                                        <a href="<?php echo $base_url; ?>/slope-stabilization.php">Slope
-                                            Stabilization</a>
-                                        <a href="<?php echo $base_url; ?>/mse-wall.php">MSE Walls</a>
-                                        <a href="<?php echo $base_url; ?>/plaza-fills.php">Plaza Fills </a>
-                                    </div>
 
                                 </div>
                             </div>

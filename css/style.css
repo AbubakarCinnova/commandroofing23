@@ -759,3 +759,9 @@ footer h4 {
   max-width: 150px;
   margin: 0 auto;
 }
+
+.video-banner video {
+  width: 100%;
+  object-fit: cover;
+  height: 55%;
+}

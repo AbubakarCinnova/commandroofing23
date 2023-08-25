@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 <div class="video-banner">
-    <video width="640" height="360" controls>
+    <video width="640" height="360" autoplay muted loop>
         <source src="<?php echo $base_url; ?>/video/command-banner-video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>

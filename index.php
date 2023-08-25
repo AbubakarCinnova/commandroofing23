@@ -1,10 +1,7 @@
 <?php include('header.php'); ?>
 
 <div class="video-banner">
-    <video width="640" height="360" controls>
-        <source src="<?php echo $base_url; ?>/video/1070194624-hd.mov" type="video/mov">
-        Your browser does not support the video tag.
-    </video>
+    <iframe src="<?php echo $base_url; ?>/video/1070194624-hd.mov" frameborder="0"></iframe>
 </div>
 <!-- Carousel
     ================================================== -->

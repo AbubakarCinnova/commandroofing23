@@ -753,6 +753,9 @@ footer h4 {
   .float-img img {
     width: 100%;
   }
+  .video-banner video {
+    height: 20rem !important;
+  }
 }
 
 .partner-logo .owl-item img {
@@ -763,5 +766,5 @@ footer h4 {
 .video-banner video {
   width: 100%;
   object-fit: cover;
-  height: 55%;
+  height: 50rem;
 }

@@ -81,7 +81,7 @@
 <!-- Blue area
     ================================================== -->
 <div class="full-width blue-bg clearfix">
-    <div class="container pt-sm pb-sm">
+    <div class="container  pb-sm">
         <div class="row ">
             <div class="col-md-12 ">
                 <h2>Command Roofing </h2>

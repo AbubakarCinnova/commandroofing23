@@ -754,7 +754,7 @@ footer h4 {
     width: 100%;
   }
   .video-banner video {
-    height: 20rem !important;
+    height: 30rem !important;
   }
 }
 
@@ -767,4 +767,7 @@ footer h4 {
   width: 100%;
   object-fit: cover;
   height: 50rem;
+}
+.video-banner {
+  margin-bottom: -6px;
 }

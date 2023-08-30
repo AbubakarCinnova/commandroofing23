@@ -1,6 +1,6 @@
-<title>Contact us </title>   
-<?php include_once('header.php') ?>       
- 
+<?php include_once('header.php') ?>
+<title>Contact us </title>
+<?php include("menu.php"); ?>
 
 <?php
                                                
@@ -170,23 +170,23 @@
  // 
  if(count($errors) === 0){
  ?>
- <div class="alert alert-success">
- <p>Thank you! your message has been sent.</p>
- </div> 
- <?php 
+<div class="alert alert-success">
+    <p>Thank you! your message has been sent.</p>
+</div>
+<?php 
  }else{
  ?>
- <div class="alert alert-block alert-danger fade in">
- <p>The following error(s) occurred:</p>
- <ul>
- <?php 
+<div class="alert alert-block alert-danger fade in">
+    <p>The following error(s) occurred:</p>
+    <ul>
+        <?php 
  foreach ($errors as $error) {
  echo "<li>$error</li>";
  }
  ?>
- </ul>
- </div>
- <?php
+    </ul>
+</div>
+<?php
  } 
  }
  
@@ -224,132 +224,98 @@
  // start form processing
  start_form();
  
-?> 
-    <div class="clearfix border-black"></div>
-   
-    <div class="container">   
-        <div class="margin-bottom-lg margin-top-lg clearfix">
-             <div class="col-sm-8 col-xs-12 margin-bottom-sm">               
-         <h1>Elastizell Systems</h1>  
-            <p>2475 Arbor Blvd<br>
-            Moraine, OH<br>
-            45439<br>
-            (937) 298-1313<br>
-            1-800-777-8448</p>
-         
-         <p>For all inquiries, please call: 1-800-777-8448</p>
-        <p>Complete the contact form below, and our team will get in touch with you very quickly.</p>
+?>
+<div class="clearfix border-black"></div>
 
-              <form action="<?php echo $base_url; ?>/contact.php" method="POST" class="form-horizontal">
-               <?php
+<div class="container">
+    <div class="margin-bottom-lg margin-top-lg clearfix">
+        <div class="col-sm-8 col-xs-12 margin-bottom-sm">
+            <h1>Elastizell Systems</h1>
+            <p>2475 Arbor Blvd<br>
+                Moraine, OH<br>
+                45439<br>
+                (937) 298-1313<br>
+                1-800-777-8448</p>
+
+            <p>For all inquiries, please call: 1-800-777-8448</p>
+            <p>Complete the contact form below, and our team will get in touch with you very quickly.</p>
+
+            <form action="<?php echo $base_url; ?>/contact.php" method="POST" class="form-horizontal">
+                <?php
              display_message($errors);
              ?>
-             <div class="control-group">
-                 <label for="name" class="control-label">Name:</label> 
-                 <div class="controls">
-                 <input type="text"  
-                    name="name" 
-                    id="name"
-                    value="<?php display_value('name')?>" 
-                    class="input-xlarge form-control" required 
-                    placeholder="Name"/>
-                 </div>
-             </div>
-             <div class="control-group">
-                 <label for="tel" class="control-label">Phone:</label> 
-                 <div class="controls">
-                 <input type="tel"  
-                    name="tel" 
-                    id="tel"
-                    value="<?php display_value('tel')?>" 
-                    class="input-xlarge form-control" required 
-                    placeholder="Phone"/>
-                 </div>
-             </div>
-             <div class="control-group">
-             <label for="email" class="control-label">Email:</label>
-             <div class="controls">
-             <input type="email" required
-                name="email"
-                id="email" 
-                value="<?php display_value('email')?>"
-                class="input-xlarge form-control" 
-                placeholder="Email"/>
-             </div> 
-             </div>
-             
-                          <div class="control-group">
-             <label for="company" class="control-label">Company:</label>
-             <div class="controls">
-             <input type="text"
-                    name="company"
-                    id="company" 
-                    value="<?php display_value('company')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="Company" />
-             </div> 
-             </div>
-             
-                                       <div class="control-group">
-             <label for="Address" class="control-label">Address:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="address"
-                    id="address" 
-                    value="<?php display_value('address')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="Address" />
-             </div> 
-             </div>
-             
+                <div class="control-group">
+                    <label for="name" class="control-label">Name:</label>
+                    <div class="controls">
+                        <input type="text" name="name" id="name" value="<?php display_value('name')?>"
+                            class="input-xlarge form-control" required placeholder="Name" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="tel" class="control-label">Phone:</label>
+                    <div class="controls">
+                        <input type="tel" name="tel" id="tel" value="<?php display_value('tel')?>"
+                            class="input-xlarge form-control" required placeholder="Phone" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="email" class="control-label">Email:</label>
+                    <div class="controls">
+                        <input type="email" required name="email" id="email" value="<?php display_value('email')?>"
+                            class="input-xlarge form-control" placeholder="Email" />
+                    </div>
+                </div>
 
-             <div class="control-group">
-             <label for="city" class="control-label">City:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="city"
-                    id="city" 
-                    value="<?php display_value('city')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="City" />
-             </div> 
-             </div>
-             
-                                       <div class="control-group">
-             <label for="state" class="control-label">State:</label>
-             <div class="controls">
-             <input type="text" required
-                    name="state"
-                    id="state" 
-                    value="<?php display_value('state')?>" 
-                    class="input-xlarge form-control" 
-                    placeholder="State" />
-             </div> 
-             </div>
-             
-             
-             <div class="control-group">
-             <label for="message" class="control-label">Message:</label>
-             <div class="controls">
-             <textarea rows="7" 
-                       cols="25" 
-                       name="message" 
-                       id="message"
-                       class="input-xlarge form-control"><?php display_value('message')?></textarea>
-             </div>
-             </div>
-             
-             <div class="control-group"> 
-             <div class="controls" style="margin-top: 10px;">
-             <input type="submit" name="submit" value="Send" class="btn btn-primary"> 
-              </div>
-             </div>
-            
-             </form>
+                <div class="control-group">
+                    <label for="company" class="control-label">Company:</label>
+                    <div class="controls">
+                        <input type="text" name="company" id="company" value="<?php display_value('company')?>"
+                            class="input-xlarge form-control" placeholder="Company" />
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="Address" class="control-label">Address:</label>
+                    <div class="controls">
+                        <input type="text" required name="address" id="address" value="<?php display_value('address')?>"
+                            class="input-xlarge form-control" placeholder="Address" />
+                    </div>
+                </div>
+
+
+                <div class="control-group">
+                    <label for="city" class="control-label">City:</label>
+                    <div class="controls">
+                        <input type="text" required name="city" id="city" value="<?php display_value('city')?>"
+                            class="input-xlarge form-control" placeholder="City" />
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="state" class="control-label">State:</label>
+                    <div class="controls">
+                        <input type="text" required name="state" id="state" value="<?php display_value('state')?>"
+                            class="input-xlarge form-control" placeholder="State" />
+                    </div>
+                </div>
+
+
+                <div class="control-group">
+                    <label for="message" class="control-label">Message:</label>
+                    <div class="controls">
+                        <textarea rows="7" cols="25" name="message" id="message"
+                            class="input-xlarge form-control"><?php display_value('message')?></textarea>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <div class="controls" style="margin-top: 10px;">
+                        <input type="submit" name="submit" value="Send" class="btn btn-primary">
+                    </div>
+                </div>
+
+            </form>
         </div>
-        </div>
-    </div>     
+    </div>
+</div>
 <?php include('footer.php'); ?>
-
-
-

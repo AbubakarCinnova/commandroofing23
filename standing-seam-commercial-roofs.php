@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>Standing Seam Commercial Roofs | Command Roofing</title>
 <meta name="description"
     content=" With Command Roofing, you can expect the finest in standing seam commercial roofing solutions." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/standing seamcommercial roof command roofing.jpeg"

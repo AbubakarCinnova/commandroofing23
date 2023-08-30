@@ -1,9 +1,8 @@
+<?php include('header.php'); ?>
 <title>Industrial Commercial Roof Coatings | Command Roofing</title>
-
 <meta name="description"
     content=" Command Roofing's Industrial commercial roof coatings are protective layers applied to the surface of a commercial building's roof to enhance its durability, weather resistance, and energy efficiency. " />
-
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/Industrial Commercial Roof Coatings.jpg"

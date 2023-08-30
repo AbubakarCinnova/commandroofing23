@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>SBS Commercial Roofing System | Command Roofing</title>
 <meta name="description"
     content=" SBS (Styrene Butadiene Styrene) modified bitumen roofing is a type of commercial roofing system that offers several advantages." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <h1>SBS Roofing System</h1>

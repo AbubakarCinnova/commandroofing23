@@ -1,5 +1,6 @@
 <?php include('header.php'); ?>
-
+<title>Home | Command Roofing </title>
+<?php include("menu.php"); ?>
 <div class="video-banner">
     <video width="640" height="360" autoplay muted loop>
         <source src="<?php echo $base_url; ?>/video/command-banner-video.mp4" type="video/mp4">

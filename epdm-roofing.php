@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>EPDM Commercial Roofing System | Command Roofing</title>
 <meta name="description"
     content=" EPDM (Ethylene Propylene Diene Monomer) roofing is a popular commercial roofing material that is a type of synthetic rubber known for its numerous advantages." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/EPDM Command Roofing.jpg" style="width:65%"

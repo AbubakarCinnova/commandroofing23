@@ -1,10 +1,10 @@
+<?php include('header.php'); ?>
 <title>Industrial Commercial Roofing Maintenance | Command Roofing</title>
-
-
 <meta name="description"
     content=" At Command Roofing our commercial roofers perform maintenance tasks according to the maintenance plan to ensure the longevity and functionality of commercial and industrial roofs." />
 
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
+
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/command roofing inspection.jpeg" style="width:65%"

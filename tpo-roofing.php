@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>Industrial Commercial TPO Roofing System | Command Roofing</title>
 <meta name="description"
     content=" TPO (Thermoplastic Polyolefin) commercial roofing is a single-ply roofing material that has gained popularity for its numerous advantages." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/TPO command roofing-min.jpg" style="width:65%"

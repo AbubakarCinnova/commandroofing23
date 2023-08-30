@@ -1,9 +1,8 @@
+<?php include('header.php'); ?>
 <title>24/7 Industrial Commercial Roofing Repair Service| Dayton, Ohio | Command Roofing</title>
-
-
 <meta name="description"
     content=" For 40 years, Command Roofing has offered a comprehensive and dependable round-the-clock industrial commercial roofing repair service, guaranteeing the safeguarding and durability of your invaluable assets." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/roofing repairs command.jpeg" style="width:65%"

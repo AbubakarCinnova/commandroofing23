@@ -1,5 +1,6 @@
-<title>About Us | Command Roofing</title>
 <?php include('header.php'); ?>
+<title>About Us | Command Roofing</title>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
 

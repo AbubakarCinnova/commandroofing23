@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>Lightweight Insulating Concrete Roof Deck System | Command Roofing</title>
 <meta name="description"
     content=" A Lightweight Insulating Concrete Roof Deck System is an advanced roofing solution designed specifically for commercial and industrial buildings." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/concrete roof decks dayton ohio.jpg"

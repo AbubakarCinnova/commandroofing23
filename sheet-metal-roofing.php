@@ -1,8 +1,8 @@
-<title>Industrial Commercial Sheet Metal Roofing | Command Roofing</title>
+<?php include('header.php'); ?>
+<title>Commercial and Industrial Sheet Metal Roofing | Command Roofing</title>
 <meta name="description"
     content=" At Command Roofing, we offer sheet metal roofing solutions for both new roof installations and re-roofing projects." />
-
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/sheet metal roof command roofing (1).jpeg"

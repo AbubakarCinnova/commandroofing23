@@ -1,7 +1,8 @@
+<?php include('header.php'); ?>
 <title>Industrial Commercial PVC Commercial Roofing System | Command Roofing</title>
 <meta name="description"
     content=" PVC (Polyvinyl Chloride) commercial roofing is a popular roofing material with several advantages for commercial and industrial applications." />
-<?php include('header.php'); ?>
+<?php include("menu.php"); ?>
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/PVC Roofing Command.JPG" style="width:65%"

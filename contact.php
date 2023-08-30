@@ -237,7 +237,7 @@
                 Moraine, OH 45439
             </p>
             <p><a href="mailto:info@commandroofing.com">info@commandroofing.com</a></p>
-            <p><a href="tel:+19372981155">Tel: 937-298-1155</a></p>
+            <p>Tel:<a href="tel:+19372981155"> 937-298-1155</a></p>
             <p>Fax: 937-298-2340</p>
 
             <p> <strong>Employment</strong> <br>

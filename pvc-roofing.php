@@ -66,10 +66,9 @@
     <p>Overall, PVC commercial roofing provides a combination of durability, waterproofing, energy efficiency, and ease
         of installation that makes it an attractive choice for commercial and industrial buildings.</p>
 
-    <p><strong> <em>Command Roofing</em> is your trusted roofing partner, offering dependable and durable commercial and
-            industrial roofing solutions that go beyond your expectations. Our mission is to provide top-notch services
-            that
-            you can rely on for all your roofing needs.</strong></p>
+    <p><strong>Command Roofing is your trusted roofing partner, offering dependable and durable commercial and
+            industrial roofing solutions that go beyond your expectations. Our mission is to provide top-notch
+            services in a safe work environment that you can rely on for all your roofing needs.</strong></p>
 
     <br>
     <p><a href="<?php echo $base_url; ?>/contact.php" class="btn btn-default">Contact Us </a> </p>

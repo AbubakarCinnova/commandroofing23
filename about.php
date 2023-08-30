@@ -6,8 +6,8 @@
 
     <h1>About Us</h1>
     <div class="float-img"><img src="<?php echo $base_url; ?>/images/Dan Philpot Command Roofing.jpg"
-            style="width:280px" alt="Owners Jessica and Dan Philpot Command Roofing ">
-        <br>
+            style="width:280px; margin-bottom:15px;" alt="Owners Jessica and Dan Philpot Command Roofing ">
+
         <p><strong>Dan Philpot Command Roofing.jpg</strong></p>
     </div>
     <br>

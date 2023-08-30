@@ -52,15 +52,10 @@
     </ul>
     <br>
 
-    <p><strong>At Command Roofing, we stand as your reliable roofing ally, delivering resilient and lasting
-            solutions for
-            commercial and industrial rooftops that exceed every anticipation. Our commitment is to furnish
-            unparalleled
-            services that instill unwavering trust, addressing all your demands for commercial roofing with the
-            utmost
-            precision and care. With expertise in lightweight cellular insulating concrete, we're dedicated to
-            elevating
-            your roofing experience to new heights.</strong></p>
+    <p><strong>At Command Roofing, we stand as your reliable roofing ally, delivering resilient and lasting solutions
+            for commercial and industrial rooftops that exceed your expectations. Our commitment is to furnish
+            unparalleled services in a safe working environment. With expertise in lightweight cellular insulating
+            concrete, we're dedicated to elevating your roofing experience to new heights.</strong></p>
 
 
     <br>

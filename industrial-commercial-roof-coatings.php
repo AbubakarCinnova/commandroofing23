@@ -87,8 +87,6 @@
 
     <h2>Benefits of Commercial Roof Coatings</h2>
     <ul>
-        <li><strong>Extended Roof Life:</strong> Coatings can extend the lifespan of the roofing material by protecting
-            it from UV rays, moisture, and other environmental factors.</li>
         <li><strong>Energy Efficiency:</strong> Reflective coatings can help reduce the roof's temperature, leading to
             lower energy consumption for cooling purposes.</li>
         <li><strong>Waterproofing:</strong> Many coatings offer excellent waterproofing properties, preventing leaks and

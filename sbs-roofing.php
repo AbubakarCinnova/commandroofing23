@@ -21,44 +21,101 @@
 
 
     <h2>Here are the key advantages of using SBS commercial roofing:</h2>
-    <p><strong>Flexibility and Elongation:</strong> SBS-modified bitumen roofing is highly flexible and can elongate to
-        accommodate building movements and temperature fluctuations without cracking or splitting. This makes it an
-        excellent choice for buildings in areas with varying climates.</p>
-    <p><strong>Durability:</strong> SBS-modified bitumen roofing is more durable than traditional asphalt roofing due to
-        the addition of the polymer. It can withstand extreme weather conditions, including high winds and hail, as well
-        as high-foot traffic, without sustaining significant damage.</p>
-    <p><strong>Waterproofing:</strong> SBS-modified bitumen provides excellent waterproofing properties. The
-        polymer-modified bitumen forms a tight and flexible seal that prevents water infiltration and minimizes the risk
-        of leaks.</p>
-    <p><strong>Tear and Puncture Resistance:</strong> SBS-modified bitumen roofing is highly resistant to tears and
-        punctures, providing additional protection against potential damage during installation, maintenance, and
-        rooftop traffic.</p>
-    <p><strong>Energy Efficiency:</strong> SBS-modified bitumen roofing systems can be designed with light-colored or
-        reflective surfaces, reducing heat absorption and cooling costs during hot weather, and contributing to energy
-        efficiency.</p>
-    <p><strong>Good Adhesion:</strong> SBS-modified bitumen membranes have excellent adhesion properties, allowing them
-        to bond securely to various types of roof decks and insulation materials.</p>
-    <p><strong>Compatibility with Multiple Surfaces:</strong> SBS roofing membranes can be applied over different
-        substrates, including concrete, wood, and metal, making it a versatile roofing option for various commercial
-        buildings.</p>
-    <p><strong>Low Maintenance:</strong> Once installed, SBS roofing requires minimal maintenance over its lifespan.
-        Regular inspections and basic cleaning are usually sufficient to keep the roof in good condition.</p>
-    <p><strong>Fire Resistance:</strong> SBS-modified bitumen roofing can have good fire resistance, especially those
-        that use multiple layers or include fire-retardant additives.</p>
-    <p><strong>Long Lifespan:</strong> When properly installed and maintained, SBS-modified bitumen roofing can have a
-        long service life, lasting 20 years or more.</p>
-    <p><strong>New Roofs:</strong>SBS-modified bitumen roofing is an excellent option for new commercial construction.
-        Its flexibility, durability,
-        and waterproofing properties make it a reliable choice for protecting new buildings from various weather
-        conditions. The ability of SBS roofing to elongate and accommodate building movements is particularly beneficial
-        for new structures where settling and expansion may occur during the early stages of the building's life.</p>
-    <p><strong>Reroofing:</strong>SBS-modified bitumen roofing is also commonly used for reroofing or roof replacement
-        projects. When an existing
-        roof needs to be replaced, SBS roofing membranes can be installed directly over the old roofing system, provided
-        that the underlying structure is in good condition. This approach, known as a "roof-over" or "recover"
-        installation, can save time and cost compared to a complete tear-off of the old roof. The tear and puncture
-        resistance of SBS roofing also makes it suitable for reroofing projects, as it can withstand the rigors of
-        installation and maintenance.</p>
+    <ul>
+        <li>
+            <p><strong>Flexibility and Elongation:</strong> SBS-modified bitumen roofing is highly flexible and can
+                elongate
+                to
+                accommodate building movements and temperature fluctuations without cracking or splitting. This makes it
+                an
+                excellent choice for buildings in areas with varying climates.</p>
+        </li>
+        <li>
+            <p><strong>Durability:</strong> SBS-modified bitumen roofing is more durable than traditional asphalt
+                roofing
+                due to
+                the addition of the polymer. It can withstand extreme weather conditions, including high winds and hail,
+                as
+                well
+                as high-foot traffic, without sustaining significant damage.</p>
+        </li>
+        <li>
+            <p><strong>Waterproofing:</strong> SBS-modified bitumen provides excellent waterproofing properties. The
+                polymer-modified bitumen forms a tight and flexible seal that prevents water infiltration and minimizes
+                the
+                risk
+                of leaks.</p>
+        </li>
+        <li>
+            <p><strong>Tear and Puncture Resistance:</strong> SBS-modified bitumen roofing is highly resistant to tears
+                and
+                punctures, providing additional protection against potential damage during installation, maintenance,
+                and
+                rooftop traffic.</p>
+        </li>
+        <li>
+            <p><strong>Energy Efficiency:</strong> SBS-modified bitumen roofing systems can be designed with
+                light-colored
+                or
+                reflective surfaces, reducing heat absorption and cooling costs during hot weather, and contributing to
+                energy
+                efficiency.</p>
+        </li>
+        <li>
+            <p><strong>Good Adhesion:</strong> SBS-modified bitumen membranes have excellent adhesion properties,
+                allowing
+                them
+                to bond securely to various types of roof decks and insulation materials.</p>
+        </li>
+        <li>
+            <p><strong>Compatibility with Multiple Surfaces:</strong> SBS roofing membranes can be applied over
+                different
+                substrates, including concrete, wood, and metal, making it a versatile roofing option for various
+                commercial
+                buildings.</p>
+        </li>
+        <li>
+            <p><strong>Low Maintenance:</strong> Once installed, SBS roofing requires minimal maintenance over its
+                lifespan.
+                Regular inspections and basic cleaning are usually sufficient to keep the roof in good condition.</p>
+        </li>
+        <li>
+            <p><strong>Fire Resistance:</strong> SBS-modified bitumen roofing can have good fire resistance, especially
+                those
+                that use multiple layers or include fire-retardant additives.</p>
+        </li>
+        <li>
+            <p><strong>Long Lifespan:</strong> When properly installed and maintained, SBS-modified bitumen roofing can
+                have
+                a
+                long service life, lasting 20 years or more.</p>
+        </li>
+        <li>
+            <p><strong>New Roofs:</strong>SBS-modified bitumen roofing is an excellent option for new commercial
+                construction.
+                Its flexibility, durability,
+                and waterproofing properties make it a reliable choice for protecting new buildings from various weather
+                conditions. The ability of SBS roofing to elongate and accommodate building movements is particularly
+                beneficial
+                for new structures where settling and expansion may occur during the early stages of the building's
+                life.
+            </p>
+        </li>
+        <li>
+            <p><strong>Reroofing:</strong>SBS-modified bitumen roofing is also commonly used for reroofing or roof
+                replacement
+                projects. When an existing
+                roof needs to be replaced, SBS roofing membranes can be installed directly over the old roofing system,
+                provided
+                that the underlying structure is in good condition. This approach, known as a "roof-over" or "recover"
+                installation, can save time and cost compared to a complete tear-off of the old roof. The tear and
+                puncture
+                resistance of SBS roofing also makes it suitable for reroofing projects, as it can withstand the rigors
+                of
+                installation and maintenance.</p>
+        </li>
+    </ul>
+
 
 
     <p><strong> SBS </strong>commercial roofing is a popular choice due to its flexibility, durability, and

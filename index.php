@@ -80,7 +80,7 @@
 </div> -->
 <!-- Blue area
     ================================================== -->
-<div class="full-width blue-bg clearfix">
+<div class="full-width  clearfix">
     <div class="container  pb-sm">
         <div class="row ">
             <div class="col-md-12 ">
@@ -131,13 +131,13 @@
     <div class="row pb-lg pt-lg">
         <div class="col-sm-6">
             <div class="col-sm-10 ">
-                <div class="inverted-bg-inverted ">
+                <div class="">
                     <img src="<?php echo $base_url; ?>/images/crane-2.jpg" class="img-responsive" alt="">
                 </div>
             </div>
         </div>
         <div class="col-sm-1"></div>
-        <div class="col-sm-5 pb-lg pt-lg">
+        <div class="col-sm-5 ">
             <h2>What is Command Roofing ?</h2>
             <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted
                 using specialized equipment to precisely blend Portland cement, water, and Elastizell pre-formed foam.

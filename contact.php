@@ -4,7 +4,7 @@
 
 <?php
                                                
- define('MAIL_TO','dan@elastizell-sys.com');
+ define('MAIL_TO','info@commandroofing.com');
  $errors = array();
  
  $name = '';
@@ -230,16 +230,26 @@
 <div class="container">
     <div class="margin-bottom-lg margin-top-lg clearfix">
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
-            <h1>Elastizell Systems</h1>
-            <p>2475 Arbor Blvd<br>
-                Moraine, OH<br>
-                45439<br>
-                (937) 298-1313<br>
-                1-800-777-8448</p>
+            <h1>Contact Us</h1>
+            <p>
+                <strong>Main Office</strong> <br>
+                2485 Arbor Blvd. <br>
+                Moraine, OH 45439
+            </p>
+            <p><a href="mailto:info@commandroofing.com">info@commandroofing.com</a></p>
+            <p><a href="tel:+19372981155">Tel: 937-298-1155</a></p>
+            <p>Fax: 937-298-2340</p>
 
-            <p>For all inquiries, please call: 1-800-777-8448</p>
-            <p>Complete the contact form below, and our team will get in touch with you very quickly.</p>
+            <p> <strong>Employment</strong> <br>
+                Interested in joining our team at Command Roofing, please send an email to jessica@commandroofing.com
+            </p>
+            <p><strong>Inquiries</strong> <br>
+                For any inquiries, questions, or service help, please call: 937-298-1155 or fill out the following form.
+            </p>
 
+            <p> For Emergency Roofing Needs Call: <a href="tel:+19376041344">937-604-1344</a>
+            </p>
+            <br>
             <form action="<?php echo $base_url; ?>/contact.php" method="POST" class="form-horizontal">
                 <?php
              display_message($errors);

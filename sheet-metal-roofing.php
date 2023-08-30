@@ -9,7 +9,7 @@
             style="width:65%" alt="metal roofing">
     </div>
     <br>
-    <h1>Industrial Commercial Sheet Metal Roofing</h1>
+    <h1>Commercial Sheet Metal Roofing</h1>
 
     <p>At Command Roofing, we offer sheet metal roofing solutions for both new roof installations and re-roofing
         projects. Sheet metal roofing, often referred to as architectural metal roofing, involves the use of metal
@@ -79,11 +79,9 @@
 
 
     <p><strong>At Command Roofing, we stand as your reliable roofing ally, delivering resilient and lasting solutions
-            for
-            commercial and industrial rooftops that exceed every anticipation. Our commitment is to furnish unparalleled
-            services that instill unwavering trust, addressing all your demands for commercial roofing with the utmost
-            precision and care. With expertise in architectural metal roofing, we're dedicated to elevating your roofing
-            experience to new heights.</strong></p>
+            for commercial and industrial rooftops that exceed your expectations. Our commitment is to furnish
+            unparalleled services in a safe working environment. With expertise in architectural metal roofing, we're
+            dedicated to elevating your roofing experience to new heights.</strong></p>
 
 
 

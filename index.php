@@ -127,26 +127,29 @@
     </div>
 </div>
 <div class="clearfix"></div>
-<div class="container mt-lg mb-lg">
-    <div class="row pb-lg pt-lg">
-        <div class="col-sm-6">
+<div class="section grey-bg">
+    <div class="container mt-lg mb-lg">
+        <div class="row pb-lg pt-lg">
+            <div class="col-sm-6">
 
-            <div class="">
-                <img src="<?php echo $base_url; ?>/images/crane-2.jpg" class="img-responsive" alt="">
+                <div class="">
+                    <img src="<?php echo $base_url; ?>/images/crane-2.jpg" class="img-responsive" alt="">
+                </div>
+
+            </div>
+
+            <div class="col-sm-6 ">
+                <h2>What is Command Roofing ?</h2>
+                <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted
+                    using specialized equipment to precisely blend Portland cement, water, and Elastizell pre-formed
+                    foam.
+                </p>
+                <p>The unique characteristics of Elastizell Cellular concrete's composition can be altered to conform to
+                    exacting densities (ranging from 20-90 pounds per cubic foot) and strengths to meet specific project
+                    requirements.</p>
             </div>
 
         </div>
-
-        <div class="col-sm-5 ">
-            <h2>What is Command Roofing ?</h2>
-            <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted
-                using specialized equipment to precisely blend Portland cement, water, and Elastizell pre-formed foam.
-            </p>
-            <p>The unique characteristics of Elastizell Cellular concrete's composition can be altered to conform to
-                exacting densities (ranging from 20-90 pounds per cubic foot) and strengths to meet specific project
-                requirements.</p>
-        </div>
-
     </div>
 </div>
 <div class="clearfix"></div>

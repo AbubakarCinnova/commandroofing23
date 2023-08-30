@@ -96,36 +96,19 @@
     <div class="container  pb-sm">
         <div class="row ">
             <div class="col-md-12 ">
-                <h2>Command Roofing </h2>
+                <h2>Four Decades of Excellence: Command Roofing, Your Trusted Commercial and Industrial Roofing Partner
+                </h2>
                 <p>
-                    For over four decades, Command Roofing has been the trusted name for exceptional industrial
-                    commercial roofing services in the Dayton, Columbus, and Cincinnati areas. As a family-owned and
-                    operated business, we take immense pride in consistently delivering top-notch quality, unmatched
-                    value, and a seamless customer experience.
-                    <br>
+                    Command Roofing, a recognized leader in the commercial and industrial roofing industry for 40 years,
+                    stands as a fully licensed, bonded, and insured company.</p>
 
+                <p>Our reputation speaks for itself, backed by a comprehensive line of roofing systems. Serving Dayton,
+                    Cincinnati, and Columbus, Ohio, we bring forth a dedicated team of commercial roofers equipped with
+                    expertise and precision to ensure the timely and budget-conscious completion of your roofing
+                    projects. As a prominent presence in the southwestern Ohio region, our commitment to delivering
+                    top-tier services in a safe working environment remains unwavering. Count on Command Roofing for all
+                    your commercial and industrial roofing needs."</p>
 
-                    Our team, comprised of certified, factory-trained roofing technicians, serves as the bedrock of our
-                    expertise. Through ongoing training initiatives, they continually elevate their skills to stay at
-                    the forefront of industry advancements. Whether you require routine maintenance, urgent roofing
-                    repairs, or a new roofing project, we stand fully prepared to meet your needs.
-
-                    <br>
-
-                    With our 24/7 industrial commercial roofing repair service, you're covered around the clock. A
-                    single call to us ensures that your roofing needs are addressed promptly, minimizing downtime and
-                    ensuring the protection of your assets.
-
-                    <br>
-
-                    At Command Roofing, we consider customer satisfaction paramount. Our commitment to surpassing your
-                    expectations drives us to go the extra mile. Rest easy knowing that our services are backed by
-                    industry-leading warranties, offering you complete peace of mind. When you entrust us with your
-                    industrial commercial roofing needs, you're choosing satisfaction as a guarantee.
-
-
-
-                </p>
             </div>
             <!--  <div class="col-md-6">
                 <div class="video-container">

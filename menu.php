@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="column">
                                         <h3>Industrial Commercial Roof Services</h3>
-                                        <a href="<?php echo $base_url; ?>/repair-service.php">24/7 Industrial Commercial
+                                        <a href="<?php echo $base_url; ?>/repair-service.php">Industrial Commercial
                                             Roofing Repair</a>
                                         <a href="<?php echo $base_url; ?>/industrial-commercial-roof-maintenance.php">Industrial
                                             Commercial Roof Maintenance Program</a>

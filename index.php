@@ -129,7 +129,7 @@
 <div class="clearfix"></div>
 <div class="section grey-bg">
     <div class="container ">
-        <div class="row pb-lg pt-lg">
+        <div class="row pb-lg pt-lg img-sec-home">
             <div class="col-sm-6">
 
                 <div class="">

@@ -775,3 +775,9 @@ footer h4 {
 .grey-bg {
   background: #f4f4f4;
 }
+
+.img-sec-home {
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+}

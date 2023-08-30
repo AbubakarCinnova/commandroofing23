@@ -63,9 +63,7 @@
                                             Sheet Metal Roofing </a>
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
                                             (LWIC) Roof Decks</a>
-                                        <!-- <a href="#">Reducing Lateral Forces</a> -->
-                                        <a href="<?php echo $base_url; ?>/geotechnical-insulation.php">Geotechnical
-                                            Insulation </a>
+
                                     </div>
                                     <div class="column">
                                         <h3>Industrial Commercial Roof Services</h3>

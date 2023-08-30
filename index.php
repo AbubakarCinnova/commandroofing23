@@ -130,13 +130,13 @@
 <div class="container mt-lg mb-lg">
     <div class="row pb-lg pt-lg">
         <div class="col-sm-6">
-            <div class="col-sm-10 ">
-                <div class="">
-                    <img src="<?php echo $base_url; ?>/images/crane-2.jpg" class="img-responsive" alt="">
-                </div>
+
+            <div class="">
+                <img src="<?php echo $base_url; ?>/images/crane-2.jpg" class="img-responsive" alt="">
             </div>
+
         </div>
-        <div class="col-sm-1"></div>
+
         <div class="col-sm-5 ">
             <h2>What is Command Roofing ?</h2>
             <p> Elastizell is a lightweight low density insulating cellular concrete product. It is expertly crafted

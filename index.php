@@ -128,7 +128,7 @@
 </div>
 <div class="clearfix"></div>
 <div class="section grey-bg">
-    <div class="container mt-lg mb-lg">
+    <div class="container ">
         <div class="row pb-lg pt-lg">
             <div class="col-sm-6">
 
@@ -153,7 +153,7 @@
     </div>
 </div>
 <div class="clearfix"></div>
-<div class="full-width grey-bg clearfix  slider-space">
+<div class="full-width  clearfix  slider-space">
     <h2 class="text-center">We Only Partner With The Best !</h2>
     <br>
     <div class="container mt-sm mb-sm">

@@ -81,6 +81,16 @@
 </div> -->
 <!-- Blue area
     ================================================== -->
+<div class="grey-bg pt-lg pb-lg">
+    <div class="container">
+        <div class="col-12">
+            <h2>Why Wait Get A Free Estimate Today!</h2>
+            <br>
+            <p><a href="<?php echo $base_url; ?>/contact.php" class="btn btn-default">Contact Us </a> </p>
+
+        </div>
+    </div>
+</div>
 <div class="full-width  clearfix">
     <div class="container  pb-sm">
         <div class="row ">
@@ -127,7 +137,7 @@
         </div>
     </div>
 </div>
-<div class="clearfix"></div>
+<!-- <div class="clearfix"></div>
 <div class="section grey-bg">
     <div class="container ">
         <div class="row pb-lg pt-lg img-sec-home">
@@ -152,7 +162,7 @@
 
         </div>
     </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <div class="full-width  clearfix  slider-space">
     <h2 class="text-center">We Only Partner With The Best !</h2>

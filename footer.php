@@ -15,30 +15,10 @@
 
                     <ul class="list-unstyled">
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-left">
-                            <li><a href="<?php echo $base_url; ?>/service-area/ann-arbor-michigan.php">Ann Arbor,
-                                    Michigan</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/st-louis-mo.php">St. Louis, Missouri</a>
-                            </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/dayton-ohio.php">Dayton, OH</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/washington-dc.php">Washington, D.C.</a>
-                            </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/columbus-ohio.php">Columbus, OH</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/cleveland-ohio.php">Cleveland, OH</a>
-                            </li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/dayton.php">Dayton, OH</a> </li>
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-right">
-                            <li><a href="<?php echo $base_url; ?>/service-area/cincinnati-ohio.php">Cincinnati, OH</a>
-                            </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/indianapolis-indiana.php">Indianapolis,
-                                    Indiana</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/chicago-illionis.php">Chicago,
-                                    Illinois</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/louisville-kentucky.php">Louisville,
-                                    Kentucky</a> </li>
-                            <li><a href="<?php echo $base_url; ?>//service-area/lexington-kentucky.php">Lexington,
-                                    Kentucky</a> </li>
-                            <li><a href="<?php echo $base_url; ?>//service-area/baltimore-md.php">Baltimore,
-                                    Maryland</a> </li>
+
                         </div>
                     </ul>
                 </div>

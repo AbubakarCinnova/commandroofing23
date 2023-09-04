@@ -25,6 +25,7 @@
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-right">
                             <li><a href="<?php echo $base_url; ?>/service-area/marysville.php">Marysville, OH</a></li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/hamilton.php">Hamilton, OH</a></li>
 
                         </div>
                     </ul>

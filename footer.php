@@ -21,7 +21,6 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/brookville.php">Brookville, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/kettering.php">Kettering, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/sidney.php">Sidney, OH</a></li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/marion.php">Marion, OH</a></li>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 ">
                             <li><a href="<?php echo $base_url; ?>/service-area/marysville.php">Marysville, OH</a></li>
@@ -30,10 +29,12 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/troy.php">Troy, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/mason.php">Mason, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/springfield.php">Springfield, OH</a></li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/minster.php">Minster, OH</a></li>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 ">
+                            <li><a href="<?php echo $base_url; ?>/service-area/marion.php">Marion, OH</a></li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/minster.php">Minster, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/west-chester.php">West Chester, OH</a>
+                            <li><a href="<?php echo $base_url; ?>/service-area/fairborn.php">Fairborn, OH</a>
                             </li>
                         </div>
                     </ul>

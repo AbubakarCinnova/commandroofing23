@@ -471,11 +471,6 @@ footer h4 {
   padding-left: 5%;
   padding-right: 5%;
 }
-@media (max-width: 1024px) {
-  .contact-div h4 {
-    margin-top: 20px !important;
-  }
-}
 
 .contact-div p a {
   vertical-align: super;

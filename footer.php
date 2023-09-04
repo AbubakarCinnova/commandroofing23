@@ -14,7 +14,7 @@
                     </div>
 
                     <ul class="list-unstyled">
-                        <div class="col-md-6 col-sm-12 col-xs-12 pull-left">
+                        <div class="col-md-4 col-sm-12 col-xs-12 pull-left">
                             <li><a href="<?php echo $base_url; ?>/service-area/dayton.php">Dayton, OH</a> </li>
                             <li><a href="<?php echo $base_url; ?>/service-area/cincinnati.php">Cincinnati, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/columbus.php">Columbus, OH</a></li>
@@ -23,7 +23,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/sidney.php">Sidney, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/marion.php">Marion, OH</a></li>
                         </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 pull-right">
+                        <div class="col-md-4 col-sm-12 col-xs-12 pull-right">
                             <li><a href="<?php echo $base_url; ?>/service-area/marysville.php">Marysville, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/hamilton.php">Hamilton, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/sharonville.php">Sharonville, OH</a></li>
@@ -31,7 +31,10 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/mason.php">Mason, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/springfield.php">Springfield, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/minster.php">Minster, OH</a></li>
-
+                        </div>
+                        <div class="col-md-4 col-sm-12 col-xs-12 pull-right">
+                            <li><a href="<?php echo $base_url; ?>/service-area/west-chester.php">West Chester, OH</a>
+                            </li>
                         </div>
                     </ul>
                 </div>

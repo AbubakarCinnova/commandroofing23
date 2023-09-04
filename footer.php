@@ -32,7 +32,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/springfield.php">Springfield, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/minster.php">Minster, OH</a></li>
                         </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 pull-right">
+                        <div class="col-md-4 col-sm-12 col-xs-12 ">
                             <li><a href="<?php echo $base_url; ?>/service-area/west-chester.php">West Chester, OH</a>
                             </li>
                         </div>

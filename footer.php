@@ -16,8 +16,8 @@
                     <ul class="list-unstyled">
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-left">
                             <li><a href="<?php echo $base_url; ?>/service-area/dayton.php">Dayton, OH</a> </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/brookville.php">Brookville, Ohio</a>
-                            </li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/cincinnati.php">Cincinnati, Ohio</a></li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/brookville.php">Brookville, OH</a></li>
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 

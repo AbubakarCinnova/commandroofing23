@@ -29,6 +29,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/sharonville.php">Sharonville, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/troy.php">Troy, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/mason.php">Mason, OH</a></li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/springfield.php">Springfield, OH</a></li>
 
                         </div>
                     </ul>

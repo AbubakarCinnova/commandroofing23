@@ -20,6 +20,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/columbus.php">Columbus, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/brookville.php">Brookville, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/kettering.php">Kettering, OH</a></li>
+                            <li><a href="<?php echo $base_url; ?>/service-area/sidney.php">Sidney, OH</a></li>
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 pull-right">
 

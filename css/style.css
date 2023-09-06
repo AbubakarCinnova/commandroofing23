@@ -310,9 +310,9 @@ span.icon-prev {
   background-color: black;
 }
 
-.nav-right li {
+/* .nav-right li {
   width: 210px;
-}
+} */
 .content-center {
   float: none;
   margin-left: auto;
@@ -730,6 +730,8 @@ footer h4 {
 @media (min-width: 776px) {
   .nav-right {
     float: right;
+    position: relative;
+    top: -66px;
   }
   #bs-example-navbar-collapse-1 {
     padding: 0;

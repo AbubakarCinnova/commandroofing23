@@ -731,7 +731,7 @@ footer h4 {
   .nav-right {
     float: right;
     position: relative;
-    left: -66px;
+    left: -32%;
   }
   #bs-example-navbar-collapse-1 {
     padding: 0;

@@ -10,11 +10,10 @@
     </div>
     <br>
 
-    <p>Command Roofing's Industrial commercial roof coatings are protective layers applied to the surface of a
-        commercial
-        building's roof to enhance its durability, weather resistance, and energy efficiency. These coatings come in
-        various
-        types, each offering specific benefits tailored to different roofing materials and conditions.</p>
+    <p>Command Roofing's Industrial and commercial roof coatings are protective layers applied to the surface of a
+        commercial building's roof to enhance its durability, weather resistance, and energy efficiency. These coatings
+        come in various types, each offering specific benefits tailored to different roofing materials and conditions.
+    </p>
 
 
 

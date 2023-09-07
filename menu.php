@@ -77,19 +77,16 @@
                             </div>
                         </div>
                         <!-- <li><a href="<?php echo $base_url; ?>/#">Applications </a></li> -->
-                        <li><a href="<?php echo $base_url; ?>/about.php">About</a>
-                            <!--<ul class="dropdown-menu">                
-                            <li><a href="<?php echo $base_url; ?>/service-plan.php">Service Plan</a></li>     
-                        </ul>      -->
-                        </li>
                     </ul>
                     <ul class="nav navbar-nav nav-right">
                         <li><a href="<?php echo $base_url; ?>/contact.php">Contact Us</a></li>
+                        <li><a href="<?php echo $base_url; ?>/about.php">About</a>
+                        </li>
+                    </ul>
 
 
 
-
-                        <!--    <i class="fa fa-caret-down"></i>
+                    <!--    <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
                 <div class="row">

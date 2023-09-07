@@ -11,7 +11,7 @@
                         </a></li>
                 </ul>
                 <ul class="topbar-right">
-                    <li class=""><a href="https://www.www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
+                    <li class=""><a href="https://www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
                         </a></li>
                     <li class=""><a href="https://www.linkedin.com/company/command-roofing-oh/"><i
                                 class="icon-xs icon-youtube"></i> </a></li>

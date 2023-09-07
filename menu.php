@@ -51,18 +51,19 @@
                                 <div class="row">
                                     <div class="column">
                                         <h3>Roofing Solutions </h3>
-                                        <a href="<?php echo $base_url; ?>/industrial-commercial-roof-coatings.php">Industrial
-                                            Commercial Roof Coatings</a>
-                                        <a href="<?php echo $base_url; ?>/sbs-roofing.php">SBS Roofing System</a>
                                         <a href="<?php echo $base_url; ?>/tpo-roofing.php">TPO Roofing System</a>
-                                        <a href="<?php echo $base_url; ?>/epdm-roofing.php">EPDM Roofing</a>
-                                        <a href="<?php echo $base_url; ?>/pvc-roofing.php">PVC Roofing </a>
+                                        <a href="<?php echo $base_url; ?>/epdm-roofing.php">EPDM Roofing Systems</a>
+                                        <a href="<?php echo $base_url; ?>/pvc-roofing.php">PVC Roofing Systems </a>
                                         <a href="<?php echo $base_url; ?>/standing-seam-commercial-roofs.php">Standing
                                             Seam Commercial Roofs </a>
-                                        <a href="<?php echo $base_url; ?>/sheet-metal-roofing.php">Industrial Commercial
+                                        <a href="<?php echo $base_url; ?>/sheet-metal-roofing.php"> Commercial
                                             Sheet Metal Roofing </a>
+                                        <a href="<?php echo $base_url; ?>/industrial-commercial-roof-coatings.php">
+                                            Commercial Roof Coatings</a>
+                                        <a href="<?php echo $base_url; ?>/sbs-roofing.php">SBS Roofing Systems</a>
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
-                                            (LWIC) Roof Decks</a>
+                                            (LWIC) Roof Decks
+                                        </a>
 
                                     </div>
                                     <div class="column">

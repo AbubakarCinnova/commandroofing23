@@ -2,10 +2,15 @@
 <title>Home | Command Roofing </title>
 <?php include("menu.php"); ?>
 <div class="video-banner">
-    <video width="640" height="360" autoplay muted loop>
+    <!-- <video width="640" height="360" autoplay muted loop>
         <source src="<?php echo $base_url; ?>/video/command-banner-video.mp4" type="video/mp4">
         Your browser does not support the video tag.
-    </video>
+    </video> -->
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe
+            src="https://player.vimeo.com/video/861793942?badge=0&amp;autopause=0&am…" frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Website Video"></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 <!-- Carousel
     ================================================== -->

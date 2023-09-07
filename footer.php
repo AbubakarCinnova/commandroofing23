@@ -3,7 +3,7 @@
         <div class="row pt-lg pb-lg">
             <div class="col-md-2 col-sm-12">
                 <div class="footer-logo mb-md">
-                    <img src="<?php echo $base_url; ?>/images/logo.png" class="img-responsive" alt="">
+                    <img src="<?php echo $base_url; ?>/images/footer-logo.png" class="img-responsive" alt="">
                 </div>
                 <!--<p>Elastizell System, Inc is a concrete application specialist in Southwest Ohio. Providing unmatched expertise in geotechnical applications, Elastizell System, Inc is highly sought after  to present customized solutions to exceed your expectations</p>-->
             </div>

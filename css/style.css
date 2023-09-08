@@ -35,7 +35,7 @@ header .navbar-brand img {
 }
 
 .topbar {
-  background: #5b5b5b;
+  background: #ffffff;
 }
 
 .topbar-left,
@@ -62,7 +62,7 @@ ul.topbar-right {
 }
 
 .icon-phone {
-  background: url("../images/phone-icon.png") 0 0 no-repeat transparent;
+  background: url("../images/phone-icon-946.png") 0 0 no-repeat transparent;
   height: 32px;
   width: 32px;
   margin-right: 8px;
@@ -72,16 +72,18 @@ ul.topbar-right {
   background: url("../images/fb-icon.png") 0 0 no-repeat transparent;
   width: 35px;
   height: 35px;
+  border: 1px solid grey;
 }
 
 .icon-youtube {
   background: url("../images/linkedin_174857.png") 0 0 no-repeat transparent;
   width: 35px;
   height: 35px;
+  border: 1px solid grey;
 }
 
 .phoneNo a {
-  color: #fff;
+  color: #030303;
   font-weight: 400;
   font-size: 20px;
   vertical-align: super;

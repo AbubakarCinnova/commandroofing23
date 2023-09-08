@@ -201,6 +201,24 @@
                 <div class="item">
                     <img src="<?php echo $base_url; ?>/images/rpm_logo_168X166-1.png" alt="" class="img-responsive">
                 </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/mrca168x166.png" alt="" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/nrca168X166.png" alt="" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/orcalogo.png" alt="" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/abcohiovalley168x166.png" alt="" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/boma168x162.png" alt="" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="<?php echo $base_url; ?>/images/aiadaytom168X166.png" alt="" class="img-responsive">
+                </div>
 
             </div>
 

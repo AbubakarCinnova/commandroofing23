@@ -92,7 +92,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h2>Why Wait? Get Contact Us Today!</h2>
+                <h2>Why Wait? Contact Us Today!</h2>
                 <br>
                 <p><a href="<?php echo $base_url; ?>/contact.php" class="btn btn-default">Contact Our Experts </a> </p>
             </div>

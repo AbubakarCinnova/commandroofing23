@@ -32,6 +32,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/minster.php">Minster, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/west-chester.php">West Chester, OH</a>
                             <li><a href="<?php echo $base_url; ?>/service-area/fairborn.php">Fairborn, OH</a>
+                            <li><a href="<?php echo $base_url; ?>/service-area/springboro.php">Springboro, OH</a>
                             </li>
                         </div>
                     </ul>

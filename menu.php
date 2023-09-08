@@ -15,7 +15,7 @@
                         </a></li>
                     <li class=""><a href="https://www.linkedin.com/company/command-roofing-oh/"><i
                                 class="icon-xs icon-youtube"></i> </a></li> -->
-                    <a href="" class="btn btn-default">Request Estimate</a>
+                    <a href="<?php echo $base_url; ?>/contact.php" class="btn btn-default">Request Estimate</a>
                 </ul>
 
             </div>

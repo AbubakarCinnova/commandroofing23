@@ -43,7 +43,7 @@
                             <li><a href="<?php echo $base_url; ?>/service-area/fairborn.php">Fairborn, OH</a></li>
                             <li><a href="<?php echo $base_url; ?>/service-area/springboro.php">Springboro, OH</a>
                             </li>
-                            <li><a href="<?php echo $base_url; ?>/service-area/richmond.php">Richmond, OH</a>
+                            <li><a href="<?php echo $base_url; ?>/service-area/richmond.php">Richmond, IN</a>
                             </li>
                         </div>
                     </ul>

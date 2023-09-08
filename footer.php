@@ -3,7 +3,7 @@
         <div class="row pt-lg pb-lg">
             <div class="col-md-2 col-sm-12">
                 <div class="footer-logo mb-md">
-                    <img src="<?php echo $base_url; ?>/images/BBB Logo.png" class="img-responsive" alt="">
+                    <img src="<?php echo $base_url; ?>/images/BBB Logo.png" alt="">
                     <br>
                 </div>
 

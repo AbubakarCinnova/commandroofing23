@@ -748,11 +748,11 @@ footer h4 {
   }
 }
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   .footer-logo {
     display: none;
   }
-}
+} */
 
 .img-wrap {
   display: flex;
@@ -807,4 +807,13 @@ footer h4 {
   font-size: 20px;
   position: relative;
   top: -3px;
+}
+
+.footer-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-logo img {
+  width: 100px;
 }

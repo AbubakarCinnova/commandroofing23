@@ -4,14 +4,16 @@
             <div class="col-md-2 col-sm-12">
                 <div class="footer-logo mb-md">
                     <img src="<?php echo $base_url; ?>/images/footer-logo.png" class="img-responsive" alt="">
-                    <br>
-                    <ul>
-                        <li class=""><a href="https://www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
-                            </a></li>
-                        <li class=""><a href="https://www.linkedin.com/company/command-roofing-oh/"><i
-                                    class="icon-xs icon-youtube"></i> </a></li>
-                    </ul>
+                    <br> <br>
                 </div>
+
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/command-roofing-oh/"><i class="icon-xs icon-youtube"></i>
+                    </a>
+                </div>
+
                 <!--<p>Elastizell System, Inc is a concrete application specialist in Southwest Ohio. Providing unmatched expertise in geotechnical applications, Elastizell System, Inc is highly sought after  to present customized solutions to exceed your expectations</p>-->
             </div>
             <div class="col-md-7 col-sm-12">

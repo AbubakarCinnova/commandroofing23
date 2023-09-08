@@ -78,15 +78,16 @@ ul.topbar-right {
   background: url("../images/fb-icon.png") 0 0 no-repeat transparent;
   width: 35px;
   height: 35px;
-  border: 1px solid grey;
 }
 
 .icon-youtube {
   background: url("../images/linkedin_174857.png") 0 0 no-repeat transparent;
   width: 35px;
   height: 35px;
-  border: 1px solid grey;
   margin-left: 15px;
+}
+.social-icons {
+  text-align: center;
 }
 
 .phoneNo a {
@@ -329,14 +330,14 @@ span.icon-prev {
 }
 
 .btn-default {
-  background: #f2521d;
+  background: #0a3ca2;
   font-weight: 700;
   color: #fff;
   padding: 15px 20px !important;
 }
 
 .btn-default:hover {
-  background: rgba(242, 82, 29, 0.9);
+  background: rgba(18, 47, 104, 0.76) !important;
   color: #fff;
 }
 

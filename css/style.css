@@ -67,6 +67,12 @@ ul.topbar-right {
   width: 32px;
   margin-right: 8px;
 }
+.icon-phone-footer {
+  background: url("../images/phone-icon.png") 0 0 no-repeat transparent;
+  height: 32px;
+  width: 32px;
+  margin-right: 8px;
+}
 
 .icon-fb {
   background: url("../images/fb-icon.png") 0 0 no-repeat transparent;

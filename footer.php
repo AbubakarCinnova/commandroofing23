@@ -4,6 +4,13 @@
             <div class="col-md-2 col-sm-12">
                 <div class="footer-logo mb-md">
                     <img src="<?php echo $base_url; ?>/images/footer-logo.png" class="img-responsive" alt="">
+                    <br>
+                    <ul>
+                        <li class=""><a href="https://www.facebook.com/commandroofingOH"><i class="icon-xs icon-fb"></i>
+                            </a></li>
+                        <li class=""><a href="https://www.linkedin.com/company/command-roofing-oh/"><i
+                                    class="icon-xs icon-youtube"></i> </a></li>
+                    </ul>
                 </div>
                 <!--<p>Elastizell System, Inc is a concrete application specialist in Southwest Ohio. Providing unmatched expertise in geotechnical applications, Elastizell System, Inc is highly sought after  to present customized solutions to exceed your expectations</p>-->
             </div>
@@ -48,7 +55,8 @@
                         <a href="mailto:info@commandroofing.com ">info@commandroofing.com </a><br>
                         Fax: 937-298-2340
                     </p>
-                    <p class="pt-sm"><i class="icon-xs icon-phone"></i> <a href="tel:+19372981155;">937-298-1155</a>
+                    <p class="pt-sm"><i class="icon-xs icon-phone-footer"></i> <a
+                            href="tel:+19372981155;">937-298-1155</a>
                     </p>
                 </div>
             </div>

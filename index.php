@@ -1,5 +1,7 @@
 <?php include('header.php'); ?>
-<title>Home | Command Roofing </title>
+<title>Command Roofing - Commercial and Industrial Roofing </title>
+<meta name="description"
+    content=" Command Roofing, a recognized leader in the commercial and industrial roofing industry for 40 years in the Dayton, Cincinnati, and Columbus, Ohio area." />
 <?php include("menu.php"); ?>
 <div class="video-banner">
     <!-- <video width="640" height="360" autoplay muted loop>

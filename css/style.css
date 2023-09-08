@@ -457,8 +457,8 @@ footer h4 {
 }
 
 .footer-item {
-  border-left: 1px solid #84b4fc;
-  border-right: 1px solid #84b4fc;
+  /*  border-left: 1px solid #84b4fc;
+  border-right: 1px solid #84b4fc; */
   padding: 0 5%;
 }
 
@@ -474,6 +474,7 @@ footer h4 {
 @media (min-width: 768px) {
   footer .service-area {
     padding-left: 15px;
+    text-align: center;
   }
 }
 

@@ -65,6 +65,8 @@
                                         <a href="<?php echo $base_url; ?>/roof-deck.php">Lightweight Insulating Concrete
                                             (LWIC) Roof Decks
                                         </a>
+                                        <a href="<?php echo $base_url; ?>/ballast-roofing.php">Ballast Roofing Systems
+                                        </a>
 
                                     </div>
                                     <div class="column">

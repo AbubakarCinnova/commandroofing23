@@ -813,6 +813,7 @@ footer h4 {
 .footer-logo {
   display: flex;
   justify-content: center;
+  margin-top: 10px;
 }
 
 .footer-logo img {

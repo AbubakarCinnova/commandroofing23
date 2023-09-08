@@ -4,7 +4,7 @@
             <div class="col-md-2 col-sm-12">
                 <div class="footer-logo mb-md">
                     <img src="<?php echo $base_url; ?>/images/footer-logo.png" class="img-responsive" alt="">
-                    <br> <br>
+                    <br>
                 </div>
 
                 <div class="social-icons">

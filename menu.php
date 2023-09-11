@@ -83,9 +83,9 @@
                         <!-- <li><a href="<?php echo $base_url; ?>/#">Applications </a></li> -->
                     </ul>
                     <ul class="nav navbar-nav nav-right">
-                        <li><a href="<?php echo $base_url; ?>/contact.php">Contact Us</a></li>
                         <li><a href="<?php echo $base_url; ?>/about.php">About</a>
                         </li>
+                        <li><a href="<?php echo $base_url; ?>/contact.php">Contact Us</a></li>
                     </ul>
 
 

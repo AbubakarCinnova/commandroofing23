@@ -6,7 +6,7 @@
 <div class="clearfix border-black"></div>
 <div class="container margin-bottom-lg margin-top-lg">
     <div class="img-wrap"><img src="<?php echo $base_url; ?>/images/Industrial Commercial Roof Coatings.jpg"
-            style="width:65%" alt="pvc">
+            style="width:100%" alt="pvc">
     </div>
     <br>
 

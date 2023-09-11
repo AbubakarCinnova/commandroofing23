@@ -764,8 +764,14 @@ footer h4 {
   float: right;
   padding: 10px 20px;
 }
+
 .float-img img {
-  width: 200px;
+  width: 100%;
+}
+@media (min-width: 991px) {
+  .float-img img {
+    width: 460px !important;
+  }
 }
 
 @media (max-width: 768px) {

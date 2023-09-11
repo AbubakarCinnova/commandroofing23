@@ -8,7 +8,7 @@
     <h1>About Us</h1>
     <div class="float-img"><img
             src="<?php echo $base_url; ?>/images/Dan and Jessica Photo- command roofing-compressed (1).jpg"
-            style="width:280px; margin-bottom:15px;" alt="Owners Jessica and Dan Philpot Command Roofing ">
+            style="margin-bottom:15px;" alt="Owners Jessica and Dan Philpot Command Roofing ">
 
         <p class="text-center"><strong>Dan and Jessica Phlipot Owners Command Roofing</strong></p>
     </div>

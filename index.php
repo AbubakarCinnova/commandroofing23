@@ -14,6 +14,17 @@
             allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
     <script src="https://player.vimeo.com/api/player.js"></script>
 
+    <script>
+    // Initialize the Vimeo player
+    var iframe = document.getElementById('vimeo-video');
+    var player = new Vimeo.Player(iframe);
+
+    // Hide the controls
+    player.setVolume(0); // Mute the video to hide volume controls
+    player.setAutopause(false); // Disable autopausing
+    player.play(); // Autoplay the video
+    </script>
+
 </div>
 <!-- Carousel
     ================================================== -->

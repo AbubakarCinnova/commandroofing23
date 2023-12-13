@@ -11,15 +11,10 @@
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo $base_url; ?>/images/favicon_io/favicon-16x16.png">
     <link rel="manifest" href="<?php echo $base_url; ?>/images/favicon_io/site.webmanifest">
 
-    <meta name="description" content=" " />
     <meta name="author" content="">
     <!-- Bootstrap core CSS -->
     <link href="<?php echo $base_url ?>/css/bootstrap.min.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 
     <!-- Fontawesome css -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.4/css/all.css"
@@ -27,8 +22,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
     <link href="<?php echo $base_url ?>/css/style.css" rel="stylesheet">
     <link href="<?php echo $base_url ?>/css/cards.css" rel="stylesheet">
-    <!-- 
-  <script src="<?php echo $base_url ?>/js/jquery-1.11.3.min.js"></script> -->
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
         integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
